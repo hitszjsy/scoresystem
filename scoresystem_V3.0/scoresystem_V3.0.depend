@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1603978683 source:d:\codeblocks\scoresystem_v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ReadData.h"
+	"CopyScore.h"
+	"Sumarray.h"
+	"Printscore.h"
+	"statistics.h"
+	"Search.h"
+
+1603979497 d:\codeblocks\scoresystem_v2.0\readdata.h
+
+1603962685 d:\codeblocks\scoresystem_v2.0\copyscore.h
+
+1603959865 d:\codeblocks\scoresystem_v2.0\sumarray.h
+
+1603978045 d:\codeblocks\scoresystem_v2.0\sort.h
+	"Swap.h"
+	<string.h>
+
+1603960375 d:\codeblocks\scoresystem_v2.0\swap.h
+
+1603977304 d:\codeblocks\scoresystem_v2.0\printscore.h
+
+1603961954 d:\codeblocks\scoresystem_v2.0\statistics.h
+
+1603978683 d:\codeblocks\scoresystem_v2.0\search.h
+	"Sort.h"
+
+1603978684 source:c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ReadData.h"
+	"CopyScore.h"
+	"Sumarray.h"
+	"Printscore.h"
+	"statistics.h"
+	"Search.h"
+
+1603979498 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\readdata.h
+
+1603962686 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\copyscore.h
+
+1603959866 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\sumarray.h
+
+1603977306 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\printscore.h
+
+1603961956 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\statistics.h
+
+1603978684 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\search.h
+	"Sort.h"
+
+1603978046 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\sort.h
+	"Swap.h"
+	<string.h>
+
+1603960376 c:\users\administrator\desktop\200210203_ΩØ ¿“¢_file\scoresystem_v2.0\swap.h
+
+1604585281 source:c:\users\printf\desktop\scoresystem_v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Creatclumearray.h"
+	"ReadData.h"
+	"CopyScore.h"
+	"Sumarray.h"
+	"Printscore.h"
+	"statistics.h"
+	"Search.h"
+
+1604570443 c:\users\printf\desktop\scoresystem_v2.0\creatclumearray.h
+
+1604546640 c:\users\printf\desktop\scoresystem_v2.0\readdata.h
+
+1603962686 c:\users\printf\desktop\scoresystem_v2.0\copyscore.h
+
+1604570752 c:\users\printf\desktop\scoresystem_v2.0\sumarray.h
+
+1604585566 c:\users\printf\desktop\scoresystem_v2.0\printscore.h
+
+1603961956 c:\users\printf\desktop\scoresystem_v2.0\statistics.h
+
+1604581644 c:\users\printf\desktop\scoresystem_v2.0\search.h
+	"Sort.h"
+
+1604585281 c:\users\printf\desktop\scoresystem_v2.0\sort.h
+	"Swap.h"
+	<string.h>
+
+1603960376 c:\users\printf\desktop\scoresystem_v2.0\swap.h
+
