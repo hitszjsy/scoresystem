@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1603978683 source:d:\codeblocks\scoresystem_v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ReadData.h"
+	"CopyScore.h"
+	"Sumarray.h"
+	"Printscore.h"
+	"statistics.h"
+	"Search.h"
+
+1603979497 d:\codeblocks\scoresystem_v2.0\readdata.h
+
+1603962685 d:\codeblocks\scoresystem_v2.0\copyscore.h
+
+1603959865 d:\codeblocks\scoresystem_v2.0\sumarray.h
+
+1603978045 d:\codeblocks\scoresystem_v2.0\sort.h
+	"Swap.h"
+	<string.h>
+
+1603960375 d:\codeblocks\scoresystem_v2.0\swap.h
+
+1603977304 d:\codeblocks\scoresystem_v2.0\printscore.h
+
+1603961954 d:\codeblocks\scoresystem_v2.0\statistics.h
+
+1603978683 d:\codeblocks\scoresystem_v2.0\search.h
+	"Sort.h"
+
