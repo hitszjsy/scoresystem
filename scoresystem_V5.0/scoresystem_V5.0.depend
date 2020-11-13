@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1604676809 source:d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct_student.h"
+	"ReadInfo.h"
+	"SumArray.h"
+	"CourseScore.h"
+	"Sort.h"
+	"Print.h"
+	"Search.h"
+	"analysis.h"
+
+1604675987 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\struct_student.h
+
+1604677118 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\readinfo.h
+
+1604668580 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\sumarray.h
+
+1604642752 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\coursescore.h
+
+1604675798 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\sort.h
+
+1604677455 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\print.h
+
+1604676097 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\search.h
+
+1604676076 d:\codeblocks\c_experiment\jsy8\scoresystem_v4.0\analysis.h
+
+1605015778 source:e:\jsy8\scoresystem_v4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct_student.h"
+	"ReadInfo.h"
+	"SumArray.h"
+	"CourseScore.h"
+	"Sort.h"
+	"Print.h"
+	"Search.h"
+	"analysis.h"
+
+1604675988 e:\jsy8\scoresystem_v4.0\struct_student.h
+
+1604677120 e:\jsy8\scoresystem_v4.0\readinfo.h
+
+1604668582 e:\jsy8\scoresystem_v4.0\sumarray.h
+
+1604642754 e:\jsy8\scoresystem_v4.0\coursescore.h
+
+1604675800 e:\jsy8\scoresystem_v4.0\sort.h
+
+1604677456 e:\jsy8\scoresystem_v4.0\print.h
+
+1604676098 e:\jsy8\scoresystem_v4.0\search.h
+
+1604676078 e:\jsy8\scoresystem_v4.0\analysis.h
+
+1605274234 source:c:\users\printf\desktop\jsy9\scoresystem_v5.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Index.h"
+	"struct_student.h"
+	"ReadInfo.h"
+	"SumArray.h"
+	"CourseScore.h"
+	"Sort.h"
+	"Print.h"
+	"Search.h"
+	"analysis.h"
+	"Wfile.h"
+	"Rfile.h"
+
+1605073723 c:\users\printf\desktop\jsy9\scoresystem_v5.0\struct_student.h
+
+1605271304 c:\users\printf\desktop\jsy9\scoresystem_v5.0\readinfo.h
+
+1605073723 c:\users\printf\desktop\jsy9\scoresystem_v5.0\sumarray.h
+
+1605073723 c:\users\printf\desktop\jsy9\scoresystem_v5.0\coursescore.h
+
+1605272714 c:\users\printf\desktop\jsy9\scoresystem_v5.0\sort.h
+
+1605271584 c:\users\printf\desktop\jsy9\scoresystem_v5.0\print.h
+
+1605073723 c:\users\printf\desktop\jsy9\scoresystem_v5.0\search.h
+
+1605073723 c:\users\printf\desktop\jsy9\scoresystem_v5.0\analysis.h
+
+1605267739 c:\users\printf\desktop\jsy9\scoresystem_v5.0\wfile.h
+
+1605271435 c:\users\printf\desktop\jsy9\scoresystem_v5.0\rfile.h
+
+1605274234 c:\users\printf\desktop\jsy9\scoresystem_v5.0\index.h
+
